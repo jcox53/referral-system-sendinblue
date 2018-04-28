@@ -2,7 +2,7 @@
 
 PLEASE NOTE: This is a clone of the code from Clément Galopin's SendinBlue referral system repository (https://github.com/clementgalopin/sendinblue-referral-system) with all of the variable names, comments, error messages, placeholder text, and notifications translated into English.
 
-#/* START README FROM ORIGINAL REPOSITORY */
+/*    START README FROM ORIGINAL REPOSITORY    */
 
 Building a user referral system with Sendinblue
 
