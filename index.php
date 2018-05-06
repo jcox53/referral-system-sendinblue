@@ -17,7 +17,7 @@
 			<input name="invite" type="text" placeholder="Email address of your friend" />
 			<!-- The referring email address included in the url is added to the form via a hidden button -->
 			<input name="referrer" value="<?php echo $_GET['referrer']; ?>" type="hidden" />
-			<input type="submit" value="invitee">
+			<input type="submit" value="invite">
 		</form>
 
 	<?php } else { ?>
