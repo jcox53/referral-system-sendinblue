@@ -6,7 +6,7 @@ PLEASE NOTE: This is a clone of the code from Clément Galopin's SendinBlue refe
 
 Building a user referral system with Sendinblue
 
-This project is a user referral system based on Sendinblue (https://fr.sendinblue.com/) and its v3 API (https://github.com/sendinblue/APIv3-php-library/).
+This project is a user referral system based on Sendinblue (https://www.sendinblue.com/) and its v3 API (https://github.com/sendinblue/APIv3-php-library/).
 
 You will find a form in index.php in which you can submit the email address of the person you want to invite.
 
